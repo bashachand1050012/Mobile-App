@@ -1,0 +1,23 @@
+.btn:focus {
+  outline: none !important;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+  box-shadow: none !important;
+}
+
+.nav-tabs .nav-link.active:focus:hover, .nav-tabs .nav-link.active:hover {
+  border: none;
+  color: #6f0abe;
+}
+
+.nav-tabs .nav-link.active:focus:hover, .nav-tabs .nav-link.active:hover {
+  border: none;
+  color: #6f0abe;
+}
+
+.nav-tabs .nav-link:focus:hover, .nav-tabs .nav-link:hover {
+  background-color: transparent;
+  box-shadow: inset 0 -2px 0 #6f0abe;
+  color: #2196f3;
+}
+
